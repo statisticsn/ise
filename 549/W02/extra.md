@@ -1,5 +1,6 @@
 
-![Bedrock Page 1](549/W02/bedrock_Page_1.jpg)
+![Bedrock Page 1](bedrock_Page_1.jpg)
+
 
 
 ## 圖 1：Innovation reminders
@@ -26,8 +27,7 @@
 - 創新應追求可持續及負責任。
 - 創新的時間壓力愈來愈大。
 
-
-![Bedrock Page 1](549/W02/bedrock_Page_2.jpg)
+![Bedrock Page 1](bedrock_Page_2.jpg)
 
 ## 圖 2：Key innovation ideas
 
